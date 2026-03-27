@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Models & Large Binaries
+*.pt
+*.onnx
+
+# Graphics/Temporary
+*.bam
+*.egg.pz
+*.log
